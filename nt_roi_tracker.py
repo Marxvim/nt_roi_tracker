@@ -1,8 +1,4 @@
 # Online Python - IDE, Editor, Compiler, Interpreter
-
-def sum(a, b):
-    return (a + b)
-
 def get_return(returns, investment, days):
     for i in range(days):
         if (i % 7 == 0):
