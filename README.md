@@ -6,5 +6,7 @@
 ### Marxvim 2023
 Nexus Trader Return on Investment tracker
 
+[Binder](https://mybinder.org/v2/gh/Marxvim/nt_roi_tracker.git/HEAD)
+
 
 
